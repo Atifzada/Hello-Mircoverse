@@ -117,7 +117,7 @@ I would like to thank Microverse Team for giving m3 the opportunity to start my 
 
 This project is MIT licensed.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and/or distribute copies of the Software, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to use, copy, modify, and/or distribute copies of the Software, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
