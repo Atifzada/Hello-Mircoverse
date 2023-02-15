@@ -62,20 +62,33 @@ git clone https://github.com/Atifzada/Hello
 ### Prerequisites
 
 In order to run this project you need:
-you have ti have Code editor and Github account to have the source code
+- vscode.
+- git.
+- set up an index.html document.
 
 ### Setup
 
 Clone this repository to your desired folder:
-git clone https://github.com/Atifzada/Hello
+
+- Navigate to the directory where you want clone this project in your computer
+
+`$ cd Desktop/`
+`$ git clone https://github.com/Jawad-Nazari/Hello-Microverse.git`
+
 
 ### Install
 
-Install this project:
+Install this project with this command:
 
-By cloning the repo
+`$ npm install`
+
 
 ### Usage
+
+To run the project, execute the following command by opening the vscode with the command `code .`
+
+
+you@you-HP-LaptopName:~/Desktop/Hello-Microverse$ code .`
 
 To run the project, execute the following command:
 
