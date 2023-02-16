@@ -64,33 +64,19 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-vscode.
-git.
-set up an index.html document.  
+you have ti have Code editor and Github account to have the source code
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-Navigate to the directory where you want clone this project in your computer
-$ cd Desktop/ $ git clone https://github.com/Atifzada/Hello-Microverse.git
-
+git clone https://github.com/Atifzada/Hello
 
 ### Install
 
-Install this project with:
-
-cd my-project
-
-npm install
+Install this project:
 
 
 ### Usage
-
-To run the project, execute the following command by opening the vscode with the command code .
-
-you@you-HP-LaptopName:~/Desktop/Hello-Microverse$ code .`
 
 To run the project, execute the following command:
 
@@ -151,6 +137,7 @@ I would like to thank Microverse for providing me this awesome learning opportun
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
