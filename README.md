@@ -1,63 +1,65 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Acknowledgements
-
-
-<div align="center">
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
-- [📖 About Hello Microverse](#about-project)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello-Microverse-Project] <a name="about-project"></a>
 
-**[Hello Microverse]** is a project created as an example for learning the basics of a new programming language or environment.
+
+**[Hello-Microverse-Project]** is a project created as an example for learning the basics of a new programming language or environment..
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
->The key feature of the "Hello, World!" project is its simplicity, as it is designed to be the most basic program possible in order to demonstrate the basic structure and syntax of a new programming language or environment. This makes it an excellent starting point for learning and exploring new technologies.
+- **[Display "Hello Microverse" on Web Page]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link] (Not deployed)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running follow these simple step.
-git clone https://github.com/Atifzada/Hello
+
+To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
@@ -73,7 +75,6 @@ git clone https://github.com/Atifzada/Hello
 
 Install this project:
 
-By cloning the repo
 
 ### Usage
 
@@ -81,36 +82,62 @@ To run the project, execute the following command:
 
 Once you clone the project then select live server you will see that Hello Microverse is displayed on the browser
 
-<!-- AUTHORS -->
+### Run tests
+
+To run tests, run the following command: Not Applicable
+
+
+### Deployment
+
+You can deploy this project using GitHub Pages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
-
-👤 **Author1**
+👤 **@Metaverse-Nabeel**
 
 - GitHub: [@atifzada](https://github.com/Atifzada)
 - Twitter: [@atifzada](https://twitter.com/atifzada04)
 - LinkedIn: [@atifzada](https://www.linkedin.com/in/atif-zada-585693180/)
 
-<!-- CONTRIBUTING -->
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [Modern-Styling] **[Changing color of the text.]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-<!-- SUPPORT -->
+Contributions, issues, and feature requests are welcome!
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> 
 
-If you like this project keep me supporting so that I can do more better and better
+If you like this project then please give it a star and share with the person who is in need of this project.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Microverse - the opportunity was provided by Microverse..
+I would like to thank Microverse for providing me this awesome learning opportunity.
 
-I would like to thank Microverse Team for giving m3 the opportunity to start my coding career with this project 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
 
 
